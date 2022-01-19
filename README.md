@@ -1,1 +1,1 @@
-# Binary-Search-
+# Binary-and-Naive-Search-Comparison
